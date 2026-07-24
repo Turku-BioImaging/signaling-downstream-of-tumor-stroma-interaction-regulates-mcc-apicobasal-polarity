@@ -3,10 +3,14 @@ __Nicolas Pasquier<sup>1,2,#</sup>, Meri Pelkonen<sup>1,#</sup>, Elise Carraz-Bi
 
 [See affiliations](#organizational-affiliations)
 
-## Abstract
-Mucinous colorectal carcinoma (MUC CRC) dissemination into the tumor stroma and metastasis to multiple organs, including the peritoneum, is associated with poor prognosis. Disseminating MUC CRCs exhibit either a conventional ‘apical-in’ or an inverted ‘apical-out’ polarity phenotype that influence patient outcome. Identifying the mechanisms controlling MUC CRC polarity is critical to understand disease progression. Here, we analyze patient-derived MUC CRC xenografts, with apical-in or apical-out polarity, ex vivo or within collagen gels to mimic the peritumoral stroma. Single-cell analyses reveal α2β1-integrin as a key collagen-binding receptor in these models. Collagen–α2β1-integrin interaction activates Src and upregulates the expression of SorLA, an endosomal sorting receptor. SorLA supports apical-in polarity and carcinoma-stroma interactions by promoting integrin recycling to the plasma membrane and HER2/HER3 expression through a positive feedback mechanism. Accordingly, we observe positive correlation between HER2, HER3 and SorLA in patient samples with the highest HER2 expression in apical-in-presenting tissues. Treatment of tumor spheres with clinically relevant HER2/HER3-targeting antibodies reverts sphere polarity and impedes collagen remodeling and adhesion to mouse peritoneum. This SorLA—integrin—HER2/HER3 signaling axis may represent a basis for MUC CRC-patient stratification and shed light on other carcinomas with similar apical-out phenotypes.
+![Static Badge](https://img.shields.io/badge/DOI-10.1038%2Fs41467--026--75127--0-blue?style=flat&link=https%3A%2F%2Fdoi.org%2F10.1038%2Fs41467-026-75127-0)
 
-[Add link/s to full-text once available]
+
+## Abstract
+Mucinous colorectal carcinoma (MUC CRC) metastasis to multiple organs, and to the peritoneum, is associated with poor prognosis. Disseminating MUC CRCs exhibit either conventional (apical-in) or inverted (apical-out) polarity that influence patient outcomes. Therefore, it is critical to identify how MUC CRC polarity is regulated. Here, we analyze patient-derived MUC CRC xenografts with either apical-in or apical-out polarity. Single-cell analyses reveal α2β1-integrin as a key collagen-binding receptor in these models. Collagen–α2β1-integrin interaction activates Src and upregulates SorLA, an endosomal sorting receptor. SorLA supports apical-in polarity by promoting integrin recycling and HER2/HER3 expression. We observe positive correlation between HER2, HER3 and SorLA in patient samples and higher HER2 expression in apical-in-presenting tissues. Clinically relevant HER2/HER3-targeting antibodies revert tumor sphere polarity, and impede collagen remodeling and adhesion to mouse peritoneum. This SorLA—integrin—HER2/HER3 axis could represent a MUC CRC-patient stratification approach and be relevant for other carcinomas with apical-out phenotypes.
+
+![Static Badge](https://img.shields.io/badge/Full_Text-Nature_Communications-blue?style=flat&link=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41467-026-75127-0)
+
 
 ## Image data
 [Update with links to Fairdata.fi]
