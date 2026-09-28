@@ -3,13 +3,13 @@ __Nicolas Pasquier<sup>1,2,#</sup>, Meri Pelkonen<sup>1,#</sup>, Elise Carraz-Bi
 
 [See affiliations](#organizational-affiliations)
 
-![Static Badge](https://img.shields.io/badge/DOI-10.1038%2Fs41467--026--75127--0-blue?style=flat&link=https%3A%2F%2Fdoi.org%2F10.1038%2Fs41467-026-75127-0)
+<a href="https://doi.org/10.1038/s41467-026-75127-0" target="_blank"><img alt="DOI" src="https://img.shields.io/badge/DOI-10.1038%2Fs41467--026--75127--0-blue?style=flat"></a>
 
 
 ## Abstract
 Mucinous colorectal carcinoma (MUC CRC) metastasis to multiple organs, and to the peritoneum, is associated with poor prognosis. Disseminating MUC CRCs exhibit either conventional (apical-in) or inverted (apical-out) polarity that influence patient outcomes. Therefore, it is critical to identify how MUC CRC polarity is regulated. Here, we analyze patient-derived MUC CRC xenografts with either apical-in or apical-out polarity. Single-cell analyses reveal α2β1-integrin as a key collagen-binding receptor in these models. Collagen–α2β1-integrin interaction activates Src and upregulates SorLA, an endosomal sorting receptor. SorLA supports apical-in polarity by promoting integrin recycling and HER2/HER3 expression. We observe positive correlation between HER2, HER3 and SorLA in patient samples and higher HER2 expression in apical-in-presenting tissues. Clinically relevant HER2/HER3-targeting antibodies revert tumor sphere polarity, and impede collagen remodeling and adhesion to mouse peritoneum. This SorLA—integrin—HER2/HER3 axis could represent a MUC CRC-patient stratification approach and be relevant for other carcinomas with apical-out phenotypes.
 
-![Static Badge](https://img.shields.io/badge/Full_Text-Nature_Communications-blue?style=flat&link=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41467-026-75127-0)
+<a href="https://doi.org/10.1038/s41467-026-75127-0" target="_blank"><img alt="Full Text - Nature Communications" src="https://img.shields.io/badge/Full_Text-Nature_Communications-blue?style=flat"></a>
 
 
 ## Image data
